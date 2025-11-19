@@ -1,5 +1,4 @@
-# Robot Framework + Appium — Sauce Labs Demo App
-
+# Robot Framework + Appium 
 
 ## Prerequisites
 - Java installed (for some Appium features)
